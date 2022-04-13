@@ -31,7 +31,7 @@ Tú también puedes:
 
 - Importe y guarde archivos desde GitHub, Dropbox, Google Drive y One Drive
 - Arrastre y suelte archivos Markdown y HTML en Dillinger
-- Exportar documentos como Markdown, HTML y PDF
+- 
 
 Markdown es un lenguaje de marcado ligero basado en las convenciones de formato que la gente usa naturalmente en el correo electrónico. Como escribe [John Gruber] en el [sitio de Markdown][df1]
 
