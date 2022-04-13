@@ -18,6 +18,10 @@ msgstr "AMP Brand Materials"
 msgid "AMP Caches & CORS"
 msgstr "AMP Caches & CORS"
 
+#: /views/partials/footer.j2:61
+msgid "AMP Conf 20200000000"
+msgstr "AMP Conf 2020000000"
+
 #: /views/partials/footer.j2:71
 msgid "AMP Conf 2020"
 msgstr "AMP Conf 2020"
