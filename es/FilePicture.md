@@ -21,7 +21,8 @@ Dillinger es un editor HTML5 Markdown habilitado para la nube, listo para dispos
 - Escriba algo de Markdown a la izquierda
 - Ver HTML a la derecha
 - magiakiu
-#13/04/2022
+
+# 13/04/2022
 
 # verdaderoy
 
