@@ -20,9 +20,9 @@ Dillinger es un editor HTML5 Markdown habilitado para la nube, listo para dispos
 
 - Escriba algo de Markdown a la izquierda
 - Ver HTML a la derecha
-- magia
+- magiakiu
 
-# verdadero
+# verdaderoy
 
 - Importe un archivo HTML y observe cómo se convierte mágicamente en Markdown
 - Arrastra y suelta imágenes (requiere que tu cuenta de Dropbox esté vinculada)
@@ -31,7 +31,7 @@ Tú también puedes:
 
 - Importe y guarde archivos desde GitHub, Dropbox, Google Drive y One Drive
 - Arrastre y suelte archivos Markdown y HTML en Dillinger
-- 
+- Export documents as Markdown, HTML and PDF
 
 Markdown es un lenguaje de marcado ligero basado en las convenciones de formato que la gente usa naturalmente en el correo electrónico. Como escribe [John Gruber] en el [sitio de Markdown][df1]
 
